@@ -5,7 +5,7 @@
 package com.mycompany.entornosgit;
 
 public class EntornosGit {
-
+//Esto es una prueba
 	public static void main(String[] args) {
 	
 		int[][] num=new int[3][6];
